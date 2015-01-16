@@ -1,0 +1,12 @@
+{
+  "name": "rootnet-profile--style-prototype",
+  "version": "0.0.0",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.6",
+    "gulp-style-prototype": "1.x.x"
+  },
+  "engines": {
+    "node": ">=0.8.0"
+  }
+}
